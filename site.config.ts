@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Alex GAO',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Personal Homepage',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
