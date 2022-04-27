@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'eb55f9ed01b146b7b8a40606555a3547',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Homepage of GAO Chonghan (高崇涵）',
+  domain: 'https://peat-yellowhorn-ddc.notion.site/Next-js-Notion-Starter-Kit-Template-eb55f9ed01b146b7b8a40606555a3547',
+  author: 'Alex GAO',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
