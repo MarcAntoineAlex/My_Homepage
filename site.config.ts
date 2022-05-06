@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Homepage of GAO Chonghan (高崇涵）',
-  domain: 'https://peat-yellowhorn-ddc.notion.site/GAO-Chonghan-eb55f9ed01b146b7b8a40606555a3547',
+  domain: 'https://gaochonghan.notion.site/GAO-Chonghan-eb55f9ed01b146b7b8a40606555a3547',
   author: 'Alex GAO',
 
   // open graph metadata (optional)
